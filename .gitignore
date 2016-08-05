@@ -1,0 +1,9 @@
+.dep/
+flash.sh
+kc60_lufa.eep
+kc60_lufa.elf
+kc60_lufa.hex
+kc60_lufa.lss
+kc60_lufa.map
+kc60_lufa.sym
+obj_kc60_lufa/
